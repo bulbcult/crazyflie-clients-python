@@ -85,7 +85,7 @@ If you are using Homebrew look at the next section.
 If you are using Anaconda/Conda, the procedure should be very similar but you can skip the python installation.
 
  1) Download and install python from [python.org](https://python.org)
- 2) [Download sdl2](https://www.libsdl.org/download-2.0.php) for Mac OSX and copy SDL2.framework into /Lirary/Frameworks
+ 2) [Download sdl2](https://www.libsdl.org/download-2.0.php) for Mac OSX and copy SDL2.framework into /Library/Frameworks
  3) Open a console and install the client with ```python3 -m pip install cfclient[qt5] pysdl2```. This will install the latest release.
 
 You can now launch the client with ```python3 -m cfclient.gui```
